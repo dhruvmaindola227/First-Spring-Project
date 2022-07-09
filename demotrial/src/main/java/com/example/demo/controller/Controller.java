@@ -19,5 +19,7 @@ public class Controller {
     String postString(@RequestBody String str){
         System.out.println(str);
         return str + " post method called";
+        //added a comment here.\///
+
     }
 }
