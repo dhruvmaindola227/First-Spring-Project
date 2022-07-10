@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.*; //spring mvc annotation.
 /**very basic rest api**/
 
 @RestController //annotates that this file is the controller.
